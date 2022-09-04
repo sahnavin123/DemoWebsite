@@ -184,8 +184,11 @@ margin-top: 4rem;
 @media screen and (max-width:500px) {
 
     .mainHeading{
-        height: 140vh;  
+        height: 150vh;  
+        
        display: flex;
+       justify-content: center;
+       align-items: center;
        flex-direction: column;
        
     }
@@ -198,14 +201,15 @@ margin-top: 4rem;
     
     .passage{
         
-        width: 50%;
+        width: 17rem;
     }
     
     .ptext{
-        margin-top: 40px;
+        margin-top: 30px;
+       
     }
     .htext{
-        margin-top: 25px;
+        margin-top: 20px;
     }
     .img{
        height: fit-content;
