@@ -19,6 +19,7 @@
 }
 
 .passage{
+   
   
     width: 50%;
 }
@@ -183,7 +184,7 @@ margin-top: 4rem;
 @media screen and (max-width:500px) {
 
     .mainHeading{
-        height: 90vh;  
+        height: 140vh;  
        display: flex;
        flex-direction: column;
        
@@ -196,7 +197,7 @@ margin-top: 4rem;
     }
     
     .passage{
-      
+        
         width: 50%;
     }
     
